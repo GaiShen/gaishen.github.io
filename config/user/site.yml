@@ -1,8 +1,8 @@
-title: 我的导航
-description: 个人网络导航站
-author: Your Name
+title: 小安驿站
+description: 专注分享各种高质量APP、实用网站、电脑软件、浏览器插件、学习资料
+author: 陈小安
 favicon: favicon.ico
-logo_text: 导航站
+logo_text: 小安驿站
 
 fonts:
   title:
@@ -19,13 +19,14 @@ fonts:
     source: google
     
 profile:
-  title: Hello,
-  subtitle: Welcome to My Navigation
-  description: 导航菜单
+  title: 欢迎来到我的导航站!
+  subtitle: 专注免费资源分享 欢迎订阅公众号「小安驿站」
+  description: 直达导航菜单
 
+# 社交
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/xiaoanplus
     icon: fab fa-github
   - name: Telegram
     url: https://t.me
