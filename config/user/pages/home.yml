@@ -219,6 +219,25 @@ categories:
         url: https://vocalremover.org/zh/
         icon: fas fa-spell-check
         description: AI人声分离
+  - name: 插件资源
+    icon: fas fa-graduation-cap
+    sites:
+      - name: CRX搜搜
+        url: https://www.crxsoso.com/
+        icon: fas fa-question-circle
+        description: 支持在线安装扩展
+      - name: 方块插件扩展
+        url: https://www.fkxz.cn/recommend/
+        icon: fas fa-play-circle
+        description: 插件扩展下载
+      - name: 极简插件
+        url: https://chrome.zzzmh.cn/
+        icon: fas fa-play-circle
+        description: 扩展和应用商店
+      - name: 加速脚本站
+        url: http://soujiaoben.org/#/pages/list/list
+        icon: fas fa-book
+        description: 篡改猴加速脚本站
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
