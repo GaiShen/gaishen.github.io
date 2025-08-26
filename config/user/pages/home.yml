@@ -40,6 +40,10 @@ categories:
         url: https://www.reddit.com
         icon: fab fa-reddit
         description: 社区讨论平台
+      - name: fontawesome
+        url: https://fontawesome.com/search?o=r
+        icon: fa-brands fa-font-awesome
+        description: 字体图标Icon
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
@@ -148,18 +152,18 @@ categories:
   - name: 在线工具
     icon: fas fa-wrench
     sites:
-      - name: JSON Editor
-        url: https://jsoneditoronline.org
+      - name: JSON解析器
+        url: https://www.huatools.com/
         icon: fas fa-code-branch
         description: JSON在线编辑器
-      - name: Can I Use
-        url: https://caniuse.com
-        icon: fas fa-browser
+      - name: 开发者武器库
+        url: https://devtool.tech/
+        icon: fa-solid fa-cash-register
         description: 浏览器兼容性查询
-      - name: TinyPNG
-        url: https://tinypng.com
+      - name: DBeaver
+        url: https://dbeaver.io/
         icon: fas fa-compress
-        description: 图片压缩工具
+        description: 可视化数据库管理工具
       - name: Carbon
         url: https://carbon.now.sh
         icon: fas fa-code
@@ -180,6 +184,41 @@ categories:
         url: https://www.grammarly.com
         icon: fas fa-spell-check
         description: 英文语法检查工具
+  - name: 媒体工具
+    icon: fas fa-wrench
+    sites:
+      - name: PDF24 Tools
+        url: https://tools.pdf24.org/zh/
+        icon: fas fa-code-branch
+        description: 在线PDF工具
+      - name: ilovepdf
+        url: https://www.ilovepdf.com/zh-cn
+        icon: fa-solid fa-cash-register
+        description: PDF爱好者的在线工具
+      - name: TinyPNG
+        url: https://tinify.cn/
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: 图像压缩
+        url: https://imagecompressor.com/zh/
+        icon: fas fa-code
+        description: 在线图像优化器
+      - name: 文件转换器
+        url: https://convertio.co/zh/
+        icon: fas fa-search
+        description: 将您的文件转换成任意格式
+      - name: 在线绘图工具
+        url: https://app.diagrams.net/
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: 画图转动画
+        url: https://monstermash.zone/
+        icon: fas fa-sticky-note
+        description: 多功能笔记工具
+      - name: 人声分离
+        url: https://vocalremover.org/zh/
+        icon: fas fa-spell-check
+        description: AI人声分离
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
